@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guilherme Fonesca</h1>
 <h3 align="center">A passionate fullstack developer from Brazil</h3>
 
-- 🔭 I’m currently working on **a secret project**
+- 🔭 I’m currently working on **a private project**
 
 - 🤝 I’m looking for help with **refactoring a project**
 
